@@ -257,9 +257,6 @@ files:
   - name: test/testimage.png
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/160/stages/833/implement#comment
-status: Failed
-feedback:
-  message: Execution failed
-  time: "Mon, 05 Feb 2024 21:27:01 UTC"
+feedback_link: https://hyperskill.org/learn/step/12269#comment
+status: Solved
 record: -1

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SteganographyTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2024-02-05T21:26:45" hostname="Serizes-MacBook-Pro.local" time="15.044">
+<testsuite name="SteganographyTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2024-02-08T20:49:18" hostname="Serizes-MacBook-Pro.local" time="15.046">
   <properties/>
-  <testcase name="start" classname="SteganographyTest" time="15.044">
+  <testcase name="start" classname="SteganographyTest" time="15.046">
     <failure message="java.lang.AssertionError: Error in test #1&#10;&#10;In this test, the program is running for a long time, more than 15 seconds. Most likely, the program has gone into an infinite loop.&#10;&#10;Please find below the output of your program during this failed test.&#10;Note that the '&gt;' character indicates the beginning of the input line.&#10;&#10;---&#10;&#10;Task (hide, show, exit): &#10;&gt; hide&#10;Input image file:" type="java.lang.AssertionError">java.lang.AssertionError: Error in test #1
 
 In this test, the program is running for a long time, more than 15 seconds. Most likely, the program has gone into an infinite loop.
